@@ -1,7 +1,9 @@
 Hi! I'm Alex Zaharia.
 
-My current research focuses: 
-- Information Theory – Understanding how information is structured, transmitted, and optimized.
-- Temporal Dynamics – Examining the role of time in learning, decision-making, and information flow.
-- Learning Rate Optimization – Enhancing how individuals, teams, and organizations acquire and apply knowledge efficiently.
-- Information Dissemination – Improving the spread and retention of knowledge across personal, professional, and organizational networks.
+I'm fascinated by how we learn, share, and optimize information. My current research explores:
+- Information Theory – How information is structured, transmitted, and refined for better understanding.
+- Temporal Dynamics – The impact of time on learning, decision-making, and communication.
+- Learning Rate Optimization – Helping individuals, teams, and organizations learn faster and more effectively.
+- Information Dissemination – Finding better ways to share and retain knowledge across different networks.
+
+Always open to discussions and collaborations—let’s connect! 🚀
