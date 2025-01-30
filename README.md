@@ -7,3 +7,7 @@ I'm fascinated by how we learn, share, and optimize information. My current rese
 - Information Dissemination – Finding better ways to share and retain knowledge across different networks.
 
 Always open to discussions and collaborations—let’s connect! 🚀
+
+Websites:
+alexzaharia.net
+linkedin.com/in/alexczaharia/
