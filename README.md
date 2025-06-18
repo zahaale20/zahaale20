@@ -9,4 +9,4 @@
 |---|---|
 | 🔗 **Portfolio** | <https://alexzaharia.net> |
 | 💼 **LinkedIn** | <https://linkedin.com/in/alexczaharia/> |
-| ✉️ **Email** | <mailto:alex.zaharia4777@gmail.com> |
+| ✉️ **Email** | <alex.zaharia4777@gmail.com> |
